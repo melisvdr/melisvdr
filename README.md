@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Melis Sude Vardar  
 
-💻 **Backend Developer Adayı** | 🎓 Bilgisayar Mühendisliği mezunu 
-🚀 Java, Python, PHP, C#, MySQL ve modern backend teknolojileriyle ilgileniyorum.  
+💻 **Backend Developer ** | 🎓 Bilgisayar Mühendisliği mezunu 
+ Java, Python, PHP, C#, MySQL ve modern backend teknolojileriyle ilgileniyorum.  
 📌 İlgi alanlarım: Backend Development, Data Engineering, Cloud & Mobile Backend  
 
 ---
